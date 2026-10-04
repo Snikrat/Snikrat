@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Snikrat — baixo ruído, alto impacto</title>
+  <desc id="desc">Identidade minimalista em preto e branco osso, com um sinal sonoro angular em vermelho escuro.</desc>
+  <rect width="1280" height="360" fill="#0d0d0f"/>
+  <path d="M64 56H1216M64 304H1216" stroke="#2b2b30"/>
+  <text x="66" y="91" fill="#97979d" font-family="monospace" font-size="12" letter-spacing="4">FELIPPE GONÇALVES DOS SANTOS / GITHUB</text>
+  <text x="60" y="205" fill="#eee9df" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="102" letter-spacing="-5">SNIKRAT</text>
+  <text x="66" y="258" fill="#aaa6a0" font-family="monospace" font-size="15" letter-spacing="3">BAIXO RUÍDO. ALTO IMPACTO.</text>
+  <path d="M834 181H879L891 157L903 207L918 129L934 232L952 92L970 263L985 142L1000 211L1015 160L1029 181H1051L1066 151L1080 210L1094 171L1105 181H1204" fill="none" stroke="#a44149" stroke-width="2.5" stroke-linejoin="miter"/>
+  <path d="M952 92L936 118M952 92L962 122M970 263L955 240M970 263L982 237" fill="none" stroke="#a44149" stroke-width="2"/>
+  <text x="66" y="329" fill="#68686e" font-family="monospace" font-size="10" letter-spacing="2">CODE / CRAFT / DISTORTION</text>
+  <text x="1100" y="329" fill="#68686e" font-family="monospace" font-size="10" letter-spacing="2">VOL. 01</text>
+</svg>
